@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TR</string>
+    <string name="notes">
+        You are the first person back in the office! Mind the signs put up and complete your checkpoint daily.
+    </string>
+    <string name="offices">Offices</string>
+    <string name="location">Location</string>
+    <string name="work_area">Work Area</string>
+    <string name="desk">Desk</string>
+    <string name="view_on_map">View on Map</string>
+    <string name="schedule">Schedule</string>
+    <string name="permissions">Permissions</string>
+    <string name="during_office_hours">During Office Hours</string>
+    <string name="date"> Today, Jan 30</string>
+</resources>
